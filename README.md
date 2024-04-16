@@ -173,8 +173,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
 
 
-### Developed By : Gumma Dileep Kumar
-### Register No : 212222240032
+### Developed By : Shaik Sameer Basha
+### Register No : 212222240093
 ## STM 32 CUBE PROGRAM :
 ```python
 
